@@ -1,0 +1,40 @@
+
+
+
+create a web application using React js with below problem statements 
+
+
+
+1.user can create add delete edit 
+
+2.the card must contain name and a video/mp3 link
+
+3.the user has the flexibility to create bucket to categories and card according to his/her choice
+
+4.user can move a card  to different bucket 
+
+5.on clicking on the card a model with an iframe should open which start playing video
+
+6.user can create and delete a card or multiple card under a single bucket @ once
+
+7.there should be a separate tab called history which list the mp3 or mp4 for links that u have played
+
+   i.e the card the link and the item was played
+
+   tech stack
+
+   ---------
+
+   1.front-end  :react.js
+   2.Back-end   :create and use json server
+
+
+
+  1.create a watch history tab in home page
+  2.create a new component for watch history
+    table format(id,cardname,url,date)
+  create a watch history key in  db.json and value as array
+
+  when we click on the card add data to db.json and get data from  db.json   
+
+   
